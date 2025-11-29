@@ -1,0 +1,5 @@
+{
+  "name": "CADD AI Assistant",
+  "description": "An AI-powered application to assist with Computer-Aided Drug Design (CADD) by simulating and explaining a modern discovery pipeline, from molecule input to synthesis planning.",
+  "requestFramePermissions": []
+}
